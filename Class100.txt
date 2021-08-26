@@ -1,0 +1,31 @@
+pip-python package manager
+There are some inbuilt python modules (which comes with python instructions example:os and shutil modules).
+There are many other modules in python which we can install using pip.
+
+Install pip in your system
+1) Save the file get-pip.py in your folder.
+2) python get-pip.py
+3) pip3 --version
+
+pip3 install howdoi
+howdoi is a very popular python package (it is like google for developers)
+It is a command line tool in python. It gives the answers to do basic programming tasks.
+
+Example:
+howdoi write functions in python
+howdoi declare variables in python
+howdoi write class in python
+-----------------------------------------
+oops-python is object oriented 
+in python 
+__init__ is a predefined function in python and it is similar to constructor in javascript.
+It is called whenever we create an object using the class
+
+self - its similar to 'this' keyword in javascript
+Python does not need keyword 'new'
+You can create new objects using the class by using the class name
+Example:
+John=Student("John",12,6)
+This is how we create objects in python
+------------------------------------------------
+class functions which begin with __(double _ are called special functions)
